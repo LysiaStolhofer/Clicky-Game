@@ -1,0 +1,24 @@
+.card {
+    background: black;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    justify-content: center;
+    border-radius: 20px;    
+    margin: 5px;
+}
+
+.card>.img-container {
+    overflow: hidden;
+    text-align: center;
+    background: black;
+    justify-content: center;  
+    margin: 15px;
+
+}
+
+.card>.img-container>img {
+    width: 130px;   
+    height: 105px;
+    border-radius: 15px; 
+}

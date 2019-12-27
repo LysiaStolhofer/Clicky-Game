@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/dryclimate.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/duckcoveredinoil.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image": "./assets/images/environmental-issue.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/garbagehill.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/korallenriff.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/meltedice.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/oilcoveredbird.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/plasticfish.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/polarbear.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/smokedforrest.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/starvingchildren.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/woodonfire.jpg",
+    "clicked": false
+}
+]
